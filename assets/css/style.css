@@ -3,7 +3,7 @@
 	padding: 0;
 }
 body{
-	background-image: url(../img/);
+	background-image: url(../img/fondo.png);
 	background-position: center;
 	background-size: contain;
 }
@@ -16,11 +16,11 @@ button{
 	margin:15px auto;
 	padding: 10px 15px;
 	color: white;
-	background-color: #faae27;
+	background-color: #00664d;
 	border:0;
 	font-weight: 700;
 	border-radius: 2px;
-	font-family: "Raleway";
+	font-family: 'Inconsolata', monospace;;
 	font-size: 15px;
 	display: block;
 	margin-top: 31px;
